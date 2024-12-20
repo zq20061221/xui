@@ -32,7 +32,7 @@ cat > "$WEB_DIR/index.html" <<EOF
   </style>
 </head>
 <body>
-  <h1>XUI 流量查询页面</h1>
+  <h1>隐姓埋名 流量查询页面</h1>
   <p>欢迎访问流量查询系统，请配置后使用。</p>
 </body>
 </html>
